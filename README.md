@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoobPawan
 - 👀 I’m interested in python , machine learning , deep learning , sql and data analysis. 
 - 🌱 I’m currently learning deep learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on jupyterhub and new ideas to enhance machine learning models to perform like deep learning nural networks.
 - 📫 you can reach me out on my email : pawanjyadav13@gmail.com
 
 <!---
